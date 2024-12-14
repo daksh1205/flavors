@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "319360421714",
+    "project_id": "todo-flavors",
+    "storage_bucket": "todo-flavors.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319360421714:android:beb70a5dbd0d0423b1348b",
+        "android_client_info": {
+          "package_name": "com.example.todo_flavours"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCorxa1RLlQPnAAkmoh1mikgoJMxcyWiuw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

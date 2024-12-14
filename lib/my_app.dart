@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:todo_flavours/global.dart';
 
 void main() {
   runApp(const MyApp());
@@ -105,8 +106,8 @@ class _MyHomePageState extends State<MyHomePage> {
           // wireframe for each widget.
           mainAxisAlignment: MainAxisAlignment.center,
           children: <Widget>[
-            const Text(
-              'You have pushed the button this many times:',
+            Text(
+              Global.baseURL,
             ),
             Text(
               '$_counter',
